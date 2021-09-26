@@ -1,0 +1,77 @@
+nav{ height:80px; 
+    background-color: rgb(15, 88, 88) ; 
+    font-size: 20px; 
+}
+nav>a {font-family:"roboto"; 
+    font-weight: 800 ;
+    display: inline-block;
+    margin-top: 30px; 
+    margin-right: 80px;
+}
+.logo{ float: left; 
+    margin-right: 500px;
+}
+a:hover {color: cyan;}
+a:link {color: navy;
+}
+.mid {
+    background-color: rgb(14, 119, 119)}
+.logo{
+    height: 80px; 
+    width: 80px;
+}
+.portfolio {
+    margin-bottom: 10px;
+    font-size: 30px;
+    
+}
+.playbutton {
+    height: 100px; 
+    width: 200px;
+}
+main{
+    background-color:  rgb(39, 160, 160);
+}
+.about{
+    background-color:  rgb(39, 160, 160);    
+}
+.services{
+    background-color:  rgb(39, 160, 160);
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.work table td {
+    height: 200px;
+    width: 400px;
+    background-color:  rgb(14, 119, 119);
+}
+.work table {
+    border-spacing: 50px;
+    
+}
+.work {
+    margin: 0px 200px 40px 200px;
+    background-color:  rgb(39, 160, 160);
+}
+.work table td h5{
+    margin: 0px 50px 10px;
+    font-size: 25px;
+}
+.work table td p{
+    margin: 0px 50px 10px 50px;
+    font-size: 20px;
+}
+.work table td i{
+    margin-left: 50px;
+}
+footer{
+    background-color:   rgb(14, 119, 119);
+    height: 100px;
+}
+#topof{
+    font-size: 25px;
+    float: right;
+    margin: 30px 20px;
+}
+    
